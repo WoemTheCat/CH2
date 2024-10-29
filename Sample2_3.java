@@ -4,7 +4,6 @@ import java.io.IOException;
 
 public class Sample2_3 {
     public static void main(String[] args) throws IOException {
-
         System.out.println("請輸入整數");
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
