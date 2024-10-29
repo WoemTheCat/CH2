@@ -10,10 +10,9 @@ public class Sample2_3 {
 
         int num = Integer.parseInt(br.readLine());
 
-        if (num == 1) {
+        if (num == 1)
             System.out.println("輸入的是1");
-        } else {
+        else
             System.out.println("選擇的是1以外的數字");
-        }
     }
 }

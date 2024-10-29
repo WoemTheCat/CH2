@@ -10,12 +10,11 @@ public class Sample2_4 {
 
         int num = Integer.parseInt(br.readLine());
 
-        if (num == 1) {
+        if (num == 1)
             System.out.println("輸入的是1");
-        } else if (num == 2) {
+        else if (num == 2)
             System.out.println("輸入的是2");
-        } else {
+        else
             System.out.println("請輸入1或2");
-        }
     }
 }
